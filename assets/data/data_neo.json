@@ -1,0 +1,128 @@
+{
+    "title": "Thomas A. Anderson (Neo) | Portfolio",
+    "description": "I am Neo, possibly the best programmer in history.",
+    "image": "/avatar.jpg",
+    "avatar": "/avatar.jpg",
+    "name": "Thomas A. Anderson (Neo)",
+    "skill": "Programmer, hacker, and The One",
+    "location": "Matrix and the real world",
+    "media": {
+        "email": "neo@metacortex.com",
+        "cv": "/data/cv.pdf",
+        "github": "https://github.com/thomasanderson",
+        "linkedin": "https://linkedin.com/in/thomasanderson"
+    },
+    "about": "I am a restless programmer with a double life, working at a prestigious software company while also committing every cybercrime imaginable. I have the feeling that nothing is what it seems.",
+    "technologies": [
+        {
+            "icon": "devicon-devicon-plain",
+            "name": "Binary"
+        },
+        {
+            "icon": "devicon-devicon-plain",
+            "name": "Assembler"
+        },
+        {
+            "icon": "devicon-devicon-plain",
+            "name": "COBOL"
+        },
+        {
+            "icon": "devicon-c-plain",
+            "name": "C"
+        },
+        {
+            "icon": "devicon-python-plain",
+            "name": "Python"
+        }
+    ],
+    "experience": [
+        {
+            "icon": "terminal",
+            "title": "Metacortex",
+            "subtitle": "Programmer",
+            "description": "I program respectable software from a cubicle.",
+            "date": "1999"
+        },
+        {
+            "icon": "rabbit",
+            "title": "Nebuchadnezzar",
+            "subtitle": "The One",
+            "description": "I am responsible for saving the world.",
+            "date": "1999 - Present"
+        }
+    ],
+    "projects": [
+        {
+            "icon": "bar-chart-4",
+            "title": "Random Software",
+            "subtitle": "Metacortex proprietary software",
+            "description": "Tool to make other people rich.",
+            "technologies": [
+                {
+                    "icon": "devicon-python-plain",
+                    "name": "Python"
+                },
+                {
+                    "icon": "devicon-django-plain",
+                    "name": "Django"
+                }
+            ],
+            "image": "/project_1.jpg",
+            "url": "https://matrix.fandom.com/wiki/MetaCortex",
+            "github": "https://github.com/thomasanderson"
+        },
+        {
+            "icon": "bug-off",
+            "title": "Matrix Hacking",
+            "subtitle": "My masterpiece",
+            "description": "Migration from the Matrix to the real world and hacking the fictional system to save humanity.",
+            "technologies": [
+                {
+                    "icon": "devicon-devicon-plain",
+                    "name": "Binary"
+                }
+            ],
+            "image": "/project_2.jpg",
+            "url": "https://matrix.fandom.com/wiki/Wiki",
+            "github": "https://github.com/thomasanderson"
+        }
+    ],
+    "education": [
+        {
+            "icon": "backpack",
+            "title": "Central West Junior High",
+            "subtitle": "A school",
+            "description": "I learned things.",
+            "date": "Undetermined",
+            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
+        },
+        {
+            "icon": "graduation-cap",
+            "title": "Owen Patterson High",
+            "subtitle": "Another school",
+            "description": "I learned more things.",
+            "date": "Undetermined",
+            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
+        }
+    ],
+    "extras": [
+        {
+            "image": "/extra_1.jpg",
+            "title": "The Matrix",
+            "description": "I appeared in this movie.",
+            "url": "https://en.wikipedia.org/wiki/The_Matrix"
+        },
+        {
+            "image": "/extra_2.jpg",
+            "title": "The Matrix Reloaded",
+            "description": "And in this one too.",
+            "url": "https://en.wikipedia.org/wiki/The_Matrix_Reloaded"
+        },
+        {
+            "image": "/extra_3.jpg",
+            "title": "The Matrix Revolutions",
+            "description": "And in this one as well.",
+            "url": "https://en.wikipedia.org/wiki/The_Matrix_Revolutions"
+        }
+    ]
+}

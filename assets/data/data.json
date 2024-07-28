@@ -1,0 +1,154 @@
+{
+    "title": "Pd-Dev's Dev Portfolio",
+    "description": "My portfolio, which you can chat with.",
+    "image": "/pd_me.png",
+    "avatar": "/avatar.jpg",
+    "name": "Paul Devey",
+    "skill": "Automation Developer",
+    "location": "Harrisburg, PA",
+    "media": {
+        "email": "pddevey@gmail.com",
+        "cv": "/data/cv.pdf",
+        "github": "https://github.com/FocusedFidgeter",
+        "linkedin": "https://www.linkedin.com/in/paul-devey"
+    },
+    "about": "Passionate programmer with a knack for solving complex problems through innovative coding solutions. With a strong background in software development and a commitment to continuous learning, he thrives on creating efficient and user-friendly applications.",
+    "technologies": [
+        {
+            "icon": "devicon-python-plain",
+            "name": "Python"
+        },
+        {
+            "icon": "devicon-react-original",
+            "name": "Reflex / React"
+        },
+        {
+            "icon": "devicon-visualbasic-plain",
+            "name": "VBA"
+        },
+        {
+            "icon": "devicon-html5-plain",
+            "name": "HTML / JS / CSS"
+        },
+        {
+            "icon": "devicon-sqlalchemy-plain",
+            "name": "SQL"
+        },
+        {
+            "icon": "devicon-json-plain",
+            "name": "JSON"
+        }
+    ],
+    "experience": [
+        {
+            "icon": "hard-hat",
+            "title": "Automation Developer / Billing Analyst",
+            "subtitle": "Flagger Force Traffic Control Services",
+            "description": "Helped troubleshoot and resolve billing errors by analyzing the most common reasons that billing errors occur. Then, resolved them using Python and VBA. Performed this analysis for multiple 'problem children' clients.\n\nAdded FileIO functionality to our invoicing software. This parsed, edited, and reformatted PDFs and CSV accounting for the many discrepencies between our contracts and technical needs. This allowed us to reduce mutiple clients' processing time by 12-16 hours per week (*30% - 40% of 40h/w*).",
+            "date": "2022 - Current"
+        },
+        {
+            "icon": "shower-head",
+            "title": "Sales Force Specialist",
+            "subtitle": "West Shore Home",
+            "description": "Developed an auditing database for errors in our initial estimates, and common causes of these errors. This reduced my personal error rate by 50% (I did not have access to anyone else's stats), proving the efficacy of this system.",
+            "date": "2021 - 2022"
+        }
+    ],
+    "projects": [
+        {
+            "icon": "cctv",
+            "title": "Developer Supervisor",
+            "subtitle": "Flagger Force",
+            "description": "Oversaw coworkers who were automating their own daily tasks. Walked them through the process:\n1. Setting up VSCode and how to install extensions and languages\n2. The importance of Version Control (instead of filesharing over IMs and emails)\n3. Setting up a development environment: `.env` files, `venv`, and  build scripts\n4. Refactoring a script into a user-friendly GUI (expertise in the code should not be a requirement of its use).",
+            "date": "2024 - Current",
+            "technologies": [
+                {
+                    "icon": "devicon-vscode-plain",
+                    "name": "VSCode"
+                },
+                {
+                    "icon": "devicon-python-plain",
+                    "name": "Python"
+                },
+                {
+                    "icon": "devicon-playwright-plain",
+                    "name": "Playwright"
+                },
+                {
+                    "icon": "devicon-github-original",
+                    "name": "Git"
+                }
+            ]
+        },
+        {
+            "icon": "bot",
+            "title": "Interactive Portfolio",
+            "subtitle": "Chat with my resume, fun facts, and hobbies.",
+            "description": "A Reflex web app that allows you to chat with a RAG assisted bot using OpenAI's Assisant API. In my example the vector store contains my resume, interesting facts about me, and a few deeper acticles about my hobbies and experiences.\n- [X] Add a Portfolio page as a Homepage\n- [ ] Add a Blog feature to display the source documents\n- [ ] Add streaming (the idea is to `yield` after every word or token, but I haven't dedicated any time yet)",
+            "date": "2023 - Current",
+            "technologies": [
+                {
+                    "icon": "devicon-vercel-original",
+                    "name": "Vercel | Static Hosting"
+                },
+                {
+                    "icon": "devicon-react-original",
+                    "name": "Reflex | Full-Stack Python"
+                }
+            ],
+            "image": "/openai.svg",
+            "url": "https://pauldevey-dotme.reflex.run/chat",
+            "github": "https://github.com/FocusedFidgeter/portfolio"
+        },
+        {
+            "icon": "square-function",
+            "title": "Throughput Analysis & Forecasting",
+            "subtitle": "Amazon Delivery Center",
+            "description": "When training to manage a new process, I noticed that each separate hour of work produced drasically different throughput. The first hour of work was far less productive than the second, and in the third hour, we often overproduced-using up all of our available containers.\n\nI analyzed this problem by pulling from `tableau` using `VBA` to calculate the throughput after each database update (*5-10 minutes*). After collecting this data, I created an Excel spreadsheet to forecast the staffing needs (*15 minutes*) and alert the manager to both high and low throughput.",
+            "date": "2020 - 2021",
+            "image": "/chart.png"
+        }
+    ],
+    "education": [
+        {
+            "icon": "graduation-cap",
+            "title": "BS in Computer Science",
+            "subtitle": "University of Pittsburgh-Johnstown",
+            "description": "Graduated with a Bachelor of Science in Computer Science, focusing on software development and system analysis.",
+            "date": "2010 - 2015"
+        }
+    ],
+    "extras": [
+        {
+            "image": "/fuji.png",
+            "title": "Grew Up in Japan",
+            "description": "For several years, I grew up in Japan. Due to my Dad serving in the US Navy, I had the incredible privilege of being able to live in Japan. I climbed Mt. Fuji, visited shrines, and wanted an air show from an aircraft carrier (a jet broke the sound barrier 0.5km off the deck).",
+            "url": ""
+        },
+        {
+            "image": "/zipline.jpg",
+            "title": "Team Building Facilitator",
+            "description": "Lead client groups through activities and challenges. Low Ropes practiced `delegation`, `cooperation`, and `leadership`. High Ropes practiced personal growth--pushing yourself out of your `comfort` zone, into your `stretch` zone, but **NOT** into your `panic` zone ;-).",
+            "url": ""
+        },
+        {
+            "image": "/great_wall.jpg",
+            "title": "Performed on The Great Wall of China",
+            "description": "My High School Marching Band was **one** of *two* USA bands invited to Perform in multiple cities. This was in the month leading up to the '08 Beijing Olympics. We performed on **The Great Wall of China**, and in **The Forbidden City**.",
+            "url": ""
+        },
+        {
+            "image": "/wsama.webp",
+            "title": "Black Belt: Jung Sim Do",
+            "description": "Earned my black belt in **Jung Sim Do** (Right Mind Way). Both a martial art and a philosophy, it's five basic tenets are *Courtesy*, *Integrity*, *Perserverance*, *Self Control*, and *Indomitable Spirit*.",
+            "url": "https://www.westshoreacademy.com/jung-sim-do"
+        },
+        {
+            "image": "/chicago.jpg",
+            "title": "Mission Trip to Chicago",
+            "description": "Participated in a mission trip, working with at-risk youth and renovating churches.",
+            "url": ""
+        }
+    ]
+}
