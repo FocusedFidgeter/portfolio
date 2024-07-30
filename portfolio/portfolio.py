@@ -7,7 +7,6 @@ from portfolio.views.footer import footer
 from portfolio.views.header import header
 from portfolio.views.info import info
 from portfolio.views.tech_stack import tech_stack
-from portfolio.chat import chat_page
 
 DATA = data.data
 
@@ -61,9 +60,4 @@ app.add_page(
         {"name": "og:description", "content": description},
         {"name": "og:image", "content": image}
     ]
-)
-
-app.add_page(
-    chat_page,
-    route="/chat"
 )
